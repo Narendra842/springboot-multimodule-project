@@ -1,0 +1,10 @@
+package com.jci.entity;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+
+@Entity
+@Table(name="UserTable")
+public class User {
+
+}

@@ -1,0 +1,5 @@
+package com.jci.entity;
+
+public enum User {
+
+}
